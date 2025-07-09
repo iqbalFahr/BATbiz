@@ -48,8 +48,10 @@
                   <img src="/icons/icon-eye.svg" class="w-[20px]" />
                 </div>
               </div>
-              <div class="p-2 rounded-xl border border-white opacity-70">
-                <img src="/icons/icon-qr.svg" class="w-[24px]" />
+              <div>
+                <div class="p-2 rounded-xl border border-white opacity-70">
+                  <img src="/icons/icon-qr.svg" class="w-[24px]" />
+                </div>
               </div>
             </div>
 
