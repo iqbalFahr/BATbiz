@@ -199,7 +199,7 @@
               </div>
             </div>
           </div>
-          <div class="w-full flex justify-between text-xs mt-8 px-4">
+          <div class="w-full md:flex hidden justify-between text-xs mt-8 px-4">
             <div></div>
             <div>Halaman 1</div>
             <div>Selanjutnya</div>
