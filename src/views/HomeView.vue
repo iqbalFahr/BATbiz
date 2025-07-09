@@ -1,6 +1,6 @@
 <template>
   <div class="flex min-h-screen text-white">
-    <!-- Sidebar -->
+  
     <aside
       class="hidden lg:flex lg:flex-col bg-[#1e1e1e] w-[220px] p-6 space-y-6"
     >
@@ -19,13 +19,13 @@
           <img src="/icons/icon-laporan.svg" class="w-5" />
           <span>Transfer</span>
         </div>
-        <!-- Add more nav items -->
+
       </nav>
     </aside>
 
-    <!-- Main Content -->
+
     <div class="flex-1 p-4">
-      <!-- Header -->
+
       <header class="flex justify-between items-center mb-4 lg:hidden">
         <img src="/icons/logo_batbiz.webp" class="w-[120px]" />
         <div class="flex items-center gap-3">
@@ -34,11 +34,11 @@
         </div>
       </header>
 
-      <!-- Content Grid -->
+
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
-        <!-- Column 1: Saldo + Verifikasi -->
+
         <div class="space-y-4">
-          <!-- Saldo Card -->
+
           <div class="bg-card w-full p-4 rounded-xl space-y-4">
             <div class="flex justify-between">
               <div>
